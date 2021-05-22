@@ -1,4 +1,4 @@
-### Oh, hi! I didn't see you there
+## Oh, hi! I didn't see you there
 
 I'm Diego, just a developer. Frontend is weird.
 
